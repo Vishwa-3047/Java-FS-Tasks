@@ -1,12 +1,10 @@
 package august;
 class program 
 {
-	int c;
-	int d;
 	void insert(int a, int b)
 	{
-		c=a;
-		d=b;
+		int c=a;
+		int d=b;
 		System.out.print("Enter the two numbers : ");
 	}
 	void add(int a, int b)
